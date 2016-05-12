@@ -1,4 +1,12 @@
 # psDooM (aka: DooM for Sys A's)
-This is a mirror of the sourceforge project: https://sourceforge.net/projects/psdoom/
+This is an unofficial, mirror of an unmaintained sourceforge project.
+
+[Original psDooM Homepage](http://psdoom.sourceforge.net/)
+
+[Original psDooM Sourceforce Project (inactive)](https://sourceforge.net/projects/psdoom/)
+
 
 I take no credit for any of the code here.
+
+
+For an actively maintained version of psDooM, check out [psdoom-ng](https://github.com/orsonteodoro/psdoom-ng).
