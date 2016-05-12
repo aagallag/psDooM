@@ -1,5 +1,5 @@
 # psDooM (aka: DooM for Sys A's)
-This is an unofficial, mirror of an unmaintained sourceforge project.
+This is an unofficial, mirror of the unmaintained sourceforge project.
 
 [Original psDooM Homepage](http://psdoom.sourceforge.net/)
 
